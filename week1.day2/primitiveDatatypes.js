@@ -6,7 +6,7 @@ var hasPlaywright
 
 console.log(firstName);
 console.log(typeof firstName);
-console.log(companyName);npx
+console.log(companyName);
 console.log(typeof companyName);
 console.log(mobileNumber);
 console.log(typeof mobileNumber);
