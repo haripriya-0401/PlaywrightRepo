@@ -1,4 +1,4 @@
-function sOddOrEven(a){
+function isOddOrEven(a){
 if (a%2==0){
 console.log('The number is EVEN');  
 }
@@ -6,5 +6,5 @@ else{
     console.log('The number is ODD');
 }
 }
-sOddOrEven(13);
-sOddOrEven(16);
+isOddOrEven(13);
+isOddOrEven(16);
