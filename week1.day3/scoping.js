@@ -1,4 +1,4 @@
-let genderType = "male"
+let genderType = "female"
 function printGender(){
     let variableColor ="Brown";
     if(genderType=="female"){
