@@ -1,0 +1,10 @@
+let browser = "Chrome"                  //declaring browser name 
+function checkBrowserVersion(cb){
+    setTimeout(() => cb(browser),2000)          //set the delay to 2secs
+}
+
+function vr(version){
+    console.log("Browser version using callback:",version)
+    
+}
+checkBrowserVersion(vr)
